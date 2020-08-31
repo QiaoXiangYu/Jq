@@ -1,0 +1,39 @@
+*{padding: 0;margin: 0;text-decoration: none;list-style: none; text-decoration: none;}
+.page{width: 100%;background: #f4f4f4;height: 1000px;}
+.head{width: 1182px;height: 173px;background: #ffffff;margin: 0 auto;overflow:hidden;border-bottom:1px solid #dddddd;}
+.headTop{width: 1182px;height:32px;background: #e3e4e5;border-bottom: 1px solid #dddddd;}
+.headBottom{width: 1182px;height: 142px;float: left;position: relative;}
+.location{float: left ;overflow: inherit;width: 46px;height: 16px;margin:10px 0 0 0;overflow:hidden;}
+.navigationTop{float: right;overflow: inherit;}
+.logo{width: 85px;height: 100px;float: left; background: cornflowerblue}
+.logo1{width: 85px;height: 100px;float: right; background: cornflowerblue}
+.seek{width: 802px;height: 38px;margin: 33px 0 33px 116px;float:left}
+.navigationBottom{width:776px;height:20px;position: absolute;left: 205px;top:105px;}
+/*
+内容
+*/
+.content{width: 1182px;height:1220px;margin: 0 auto;border-bottom:1px solid #e1e1e1;}
+.picture1,.picture2,.userinfo{margin-left: 5px;float: left;}
+.commodity{float: left;width: 193px;height: 470px;background: #fefefe;}
+.picture1{width: 592px;height: 470px;}
+.picture2{width:189px;height: 470px;}
+.userinfo{width: 191px;height:470px;}
+.recommend{width: 1182px;height: 326px;background: #985f0d;float: left;}
+.goods{width: 1182px;float: left;}
+.goods ul li{width: 200px;padding: 18.1px;}
+.goods ul li a p{text-align: center;font-size: 14px;margin-top: 20px;width: 194px;height: 40px;overflow: hidden;}
+.goods ul li img{width: 151px;height: 149px;margin-left: 10px;}
+.goods ul li{float:left;}
+
+
+
+
+
+
+/*底部*/
+.bottom{width: 1182px;height: 185px;margin: 0 auto;}
+.archival{width: 1182px;height: 40px;}
+.archival ul li{float: left;margin-left: 13px;}
+.archival ul li a{font-size: 13px;color:#666666;}
+.administration p{text-align: center;line-height: 30px;color: #999999;}
+
